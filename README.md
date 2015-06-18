@@ -1,3 +1,10 @@
+
+说明：
+一.PDF版为最终发布版（release）
+
+二.PDF带有书签，大家可以很方便的浏览。
+
+
 一.该开发指南基于ABP Framework官方文档，由ABP框架中国小组(ABPFrameWorkGroup)翻译。ABP框架中国小组在Github的地址为：https://github.com/ABPFrameWorkGroup，
 大家可以在该地址下载最新的翻译文档并加入讨论。以后，最新的ABPFrameWork档，ABPFrameWork实例教程，以及代码都通过Github的ABP框架中国小组(ABPFrameWorkGroup)发布，请大家关注。
 
