@@ -3,6 +3,7 @@
 ### 建立动态WebApi控制器
 
 Abp框架能够通过应用层自动生成web api：
+``` csharp
     public interface ITaskAppService : IApplicationService
    
     {
@@ -14,6 +15,7 @@ Abp框架能够通过应用层自动生成web api：
         void CreateTask(CreateTaskInput input);
         
     }
+```
 
 Abp框架通过一行关键代码的配置就可以自动、动态的为应用层建立一个web api 控制器:
 
