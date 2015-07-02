@@ -15,9 +15,11 @@
 
 ### 1.2.2 ABP的体系结构
 ![](https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese/blob/master/Markdown/images/1.2.1.png)
+
 一个简单的解决方案，大致包含5个项目：
 
 ![](https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese/blob/master/Markdown/images/1.2.2.png)
+
 每一层可以用一个或多个程序集来实现。
 
 ### 1.2.3 领域层
