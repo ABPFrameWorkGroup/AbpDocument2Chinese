@@ -45,6 +45,8 @@ Configuration.Localization.Sources.Add(
 
 这样就完成了模块的预初始化事件。
 
+![](https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese/blob/master/Markdown/images/5.2.1.png)
+
 本地化配置文件必须为每个语言设置一个唯一的名字（单任务系统）和一个包含xml文件目录路径。在本例中，它们将放置在Localization/SimpleTaskSystem文件夹中。
 
 SimpleTaskSystem.xml是默认的本地化语言配置文件（它没有包含语言代码）SimpleTaskSystem.tr.xml包含了土耳其语言。当请求一个文本时，ABP获取当前语言xml文件，使用Thread.CurrentThread.CurrentUICulture。如果不存在当前的语言。它会从默认的语言xml中获取。使用xml增加了灵活性，即使没有经验的用户也很容易修改和发布。
@@ -52,7 +54,11 @@ SimpleTaskSystem.xml是默认的本地化语言配置文件（它没有包含语
 #### 自定义资源(Custom source)
 当然也可以将本地化配置存储在.net的资源文件中。我们可以为每种语言创建一个配置文件。如下：
 
+![](https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese/blob/master/Markdown/images/5.2.2.png)
+
 MyTexts.resx包含了默认的语言配置文件，MyTexts.tr.resx包含了土耳其语言配置文件。当打开MyTexts.resx:
+
+![](https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese/blob/master/Markdown/images/5.2.3.png)
 
 配置方法如下：
 
