@@ -1,5 +1,5 @@
 **箴言：老老实实做事，踏踏实实做人，乐于分享才是一种境界的突破。**
-
+                                                          
 ----------
 
 **说明：原始Word版本现在已经加入**
@@ -16,7 +16,7 @@
 
 **三.关于ABP框架中国小组**
 
-该开发指南基于ABP Framework官方文档，由ABP框架中国小组(ABPFrameWorkGroup)翻译。ABP框架中国小组在Github的地址为：https://github.com/ABPFrameWorkGroup， 大家可以在该地址下载最新的翻译文档并加入讨论。以后，最新的ABPFrameWork档，ABPFrameWork实例教程，以及代码都通过Github的ABP框架中国小组(ABPFrameWorkGroup)发布，请大家关注。
+该开发指南基于ABP Framework官方文档，由ABP框架中国小组(ABPFrameWorkGroup)翻译。ABP框架中国小组在Github的地址为：https://github.com/ABPFrameWorkGroup 大家可以在该地址下载最新的翻译文档并加入讨论。以后，最新的ABPFrameWork档，ABPFrameWork实例教程，以及代码都通过Github的ABP框架中国小组(ABPFrameWorkGroup)发布，请大家关注。
 
 **四.关于翻译**
 
@@ -38,3 +38,9 @@ ABP官方文档翻译征集启动以来，得到了大家的热烈响应，先�
 (4) 翻译总体上保留了原文的风格，大家可以对比一下原文，这不失为一个学习英语的最佳实践。
 
 (5) 对于常见词汇，翻译统一了标准：如，derived翻译为派生，be used to翻译为“调用”而不是“被用来”，implement翻译为实现，等等。这里不在叙述。
+
+----------
+
+**六.其它**
+
+已增加了md格式的各小节翻译版本，有翻译不妥的地方欢迎同学们更正(注意：md格式为最新版）。
