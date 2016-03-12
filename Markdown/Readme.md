@@ -49,7 +49,7 @@
     3. [本地化](Abp/6.3ABP表现层-本地化.md)    
     4. [导航栏](Abp/6.4ABP表现层-导航栏.md)
     5. [异常处理](Abp/6.5ABP表现层-异常处理.md)
-    6. [Javascript函数库](Abp/6.6表现层-Javascript函数库.md)
+    6. [Javascript函数库](Abp/6.6ABP表现层-Javascript函数库.md)
     7. [嵌入资源文件](Abp/6.7ABP表现层-嵌入资源文件.md)
 
 7. ABP后台服务
