@@ -7,7 +7,7 @@
 
 ### Abp 框架
 1. 总体介绍
-    1. [入门介绍](/Abp/1.1ABP总体介绍-入门介绍.md)
+    1. [入门介绍](Abp/1.1ABP总体介绍-入门介绍.md)
     2. [多层次架构体系](https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese/blob/master/Markdown/Abp/1.2ABP总体介绍-多层架构体系.md)
     3. [模块系统](https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese/blob/master/Markdown/Abp/1.3ABP总体介绍-模块系统.md)
     4. [启动配置](https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese/blob/master/Markdown/Abp/1.4ABP总体介绍-启动配置.md)
