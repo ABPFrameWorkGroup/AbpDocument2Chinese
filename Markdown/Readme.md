@@ -38,8 +38,8 @@
     6. [审计日志](Abp/4.6 ABP应用层—审计日志)
 
 5. 分布式服务层
-    1. [Web API Controllers]
-    2. [动态WebApi层](Abp/5.1ABP分布式服务-动态WebApi层.md)
+    1. [Web API Controllers](Abp/5.1ABP分布式服务-ASP.NET WebApi.md)
+    2. [动态WebApi层](Abp/5.2ABP分布式服务-动态WebApi层.md)
     3. [集成OData]
     4. [集成Swagger UI]
 
