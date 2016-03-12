@@ -40,8 +40,8 @@
 5. 分布式服务层
     1. [Web API Controllers](Abp/5.1ABP分布式服务-ASP.NET WebApi.md)
     2. [动态WebApi层](Abp/5.2ABP分布式服务-动态WebApi层.md)
-    3. [集成OData]
-    4. [集成Swagger UI]
+    3. [集成OData](Abp/5.3ABP分布式服务-集成OData.md)
+    4. [集成Swagger UI](Abp/5.4ABP分布式服务-集成SwaggerUI.md)
 
 6. ABP表现层
     1. [MVC Controllers]
