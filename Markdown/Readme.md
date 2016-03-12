@@ -35,7 +35,7 @@
     3. [数据传输对象验证](Abp/4.3ABP应用层-数据传输对象验证.md)
     4. [权限验证](Abp/4.4ABP应用层-权限认证.md)
     5. [功能管理](Abp/4.5ABP应用层-功能管理.md)
-    6. [审计日志](Abp/4.6 ABP应用层—审计日志.md)
+    6. [审计日志](Abp/4.6ABP应用层-审计日志.md)
 
 5. 分布式服务层
     1. [Web API Controllers](Abp/5.1ABP分布式服务-ASP.NET WebApi.md)
