@@ -58,7 +58,7 @@
 
 8. ABP实时服务
     1. [通知系统]
-    2. [集成SignalR]
+    2. [集成SignalR](Abp/8.2ABP实时服务-集成SignalR.md)
 
 9. ABP基础设施层
     1. [集成EntityFramework](Abp/9.1ABP基础设施层-集成Entity Framework.md)
