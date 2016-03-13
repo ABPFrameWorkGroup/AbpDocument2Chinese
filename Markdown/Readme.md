@@ -44,8 +44,8 @@
     4. [集成Swagger UI](Abp/5.4ABP分布式服务-集成SwaggerUI.md)
 
 6. ABP表现层
-    1. [MVC Controllers]
-    2. [MVC视图]    
+    1. [MVC Controllers](Abp/6.1ABP表现层-Mvc控制器.md)
+    2. [MVC视图](Abp/6.2ABP表现层-Mvc视图.md)    
     3. [本地化](Abp/6.3ABP表现层-本地化.md)    
     4. [导航栏](Abp/6.4ABP表现层-导航栏.md)
     5. [异常处理](Abp/6.5ABP表现层-异常处理.md)
