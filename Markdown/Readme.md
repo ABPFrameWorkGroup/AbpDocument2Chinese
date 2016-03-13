@@ -53,12 +53,12 @@
     7. [嵌入资源文件](Abp/6.7ABP表现层-嵌入资源文件.md)
 
 7. ABP后台服务
-    1. 后台工作和工人
-    2. 集成Hangfire
+    1. [后台作业和后台工人](Abp/7.1ABP后台服务-后台作业和工人.md)
+    2. [集成Hangfire](Abp/7.2ABP后台服务-集成Hangfire.md)
 
 8. ABP实时服务
-    1. 通知系统
-    2. 集成SignalR
+    1. [通知系统]
+    2. [集成SignalR]
 
 9. ABP基础设施层
     1. [集成EntityFramework](Abp/9.1ABP基础设施层-集成Entity Framework.md)
