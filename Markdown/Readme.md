@@ -66,16 +66,21 @@
     
     
 ### Abp Zero
+
+由于博客园已经有了完全版的ABP Zero的翻译，这里没有翻译的将直接链接到[tkb至简](http://www.cnblogs.com/farb)的博客。
+感谢tkb至简。
+
 1. 总体介绍
     1. [概述](AbpZero/1.1ABPZero-概述.md)
     2. [安装](AbpZero/1.2ABPZero-安装.md)
-    3. [模板生成]
+    3. [模板生成](http://www.cnblogs.com/farb/p/zeroStartupTemplate.html) 
 2. 功能
     1. [多租户管理](AbpZero/2.1ABPZero-多租户管理.md)
     2. [版本管理](AbpZero/2.2ABPZero-版本管理.md)
-    3. [角色管理]
-    4. [组织单位管理](AbpZero/2.4ABPZero-组织单位管理.md)
-    5. [权限管理]
-    6. [语言管理]
+    3. [用户管理](http://www.cnblogs.com/farb/p/moduleZeroUserManagement.html)
+    4. [角色管理](http://www.cnblogs.com/farb/p/ModuleZeroRoleManagement.html)
+    5. [组织单位管理](AbpZero/2.4ABPZero-组织单位管理.md)
+    6. [权限管理](http://www.cnblogs.com/farb/p/ModuleZeroPermissonManagement.html)
+    7. [语言管理](http://www.cnblogs.com/farb/p/ModuleZeroLanguageManagement.html)
  
 
