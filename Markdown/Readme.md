@@ -53,6 +53,7 @@
     6. [Javascript函数库](Abp/6.6ABP表现层-Javascript函数库.md)
     7. [嵌入资源文件](Abp/6.7ABP表现层-嵌入资源文件.md)
     8. [ASP.NET Core](Abp/6.8ASP.NET-Core.md)
+    9. [CSRF和XSRF保护](Abp/6.9CSRF和XSRF保护.md)
 
 7. ABP后台服务
     1. [后台作业和后台工人](Abp/7.1ABP后台服务-后台作业和工人.md)
