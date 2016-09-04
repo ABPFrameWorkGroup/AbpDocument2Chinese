@@ -66,6 +66,7 @@
 9. ABP基础设施层
     1. [集成EntityFramework](Abp/9.1ABP基础设施层-集成Entity Framework.md)
     2. [集成NHibernate](Abp/9.2ABP基础设施层-集成NHibernate.md)
+    3. [集成EntityFramework Core](Abp/9.3ABP基础设施层-集成Entity Framework Core.md)
     
     
 ### Abp Zero
