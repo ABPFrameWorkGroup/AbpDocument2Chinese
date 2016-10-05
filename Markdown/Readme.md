@@ -78,7 +78,8 @@
 1. 总体介绍
     1. [概述](AbpZero/1.1ABPZero-概述.md)
     2. [安装](AbpZero/1.2ABPZero-安装.md)
-    3. [模板生成](http://www.cnblogs.com/farb/p/zeroStartupTemplate.html) 
+    3. [启动模版](AbpZero/1.3ABPZero-启动模板.md) 
+    4. [启动模板(ASP.NET Core)](1.4ABPZero-启动模板Core.md)
 2. 功能
     1. [多租户管理](AbpZero/2.1ABPZero-多租户管理.md)
     2. [版本管理](AbpZero/2.2ABPZero-版本管理.md)
