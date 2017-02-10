@@ -59,6 +59,7 @@
 7. ABP后台服务
     1. [后台作业和后台工人](Abp/7.1ABP后台服务-后台作业和工人.md)
     2. [集成Hangfire](Abp/7.2ABP后台服务-集成Hangfire.md)
+    3. [集成Quartz](Abp/7.3ABP后台服务-集成Quartz.md)
 
 8. ABP实时服务
     1. [通知系统](Abp/8.1ABP实时服务-通知系统.md)
@@ -68,7 +69,7 @@
     1. [集成EntityFramework](Abp/9.1ABP基础设施层-集成Entity Framework.md)
     2. [集成NHibernate](Abp/9.2ABP基础设施层-集成NHibernate.md)
     3. [集成EntityFramework Core](Abp/9.3ABP基础设施层-集成Entity Framework Core.md)
-    
+    4. [集成EntityFramework MySQL](Abp/9.4ABP基础设施层-集成Entity Framework MySql.md)
     
 ### Abp Zero
 
