@@ -1,4 +1,4 @@
-##目录
+## 目录
 
 ### 文章&教程
 * Abp介绍
@@ -41,7 +41,7 @@
     6. [审计日志](Abp/4.6ABP应用层-审计日志.md)
 
 5. 分布式服务层
-    1. [Web API Controllers](Abp/5.1ABP分布式服务-ASP.NET WebApi.md)
+    1. [Web API Controllers](Abp/5.1ABP分布式服务-ASP.NETWebApi.md)
     2. [动态WebApi层](Abp/5.2ABP分布式服务-动态WebApi层.md)
     3. [集成OData](Abp/5.3ABP分布式服务-集成OData.md)
     4. [集成Swagger UI](Abp/5.4ABP分布式服务-集成SwaggerUI.md)
@@ -68,10 +68,10 @@
     2. [集成SignalR](Abp/8.2ABP实时服务-集成SignalR.md)
 
 9. ABP基础设施层
-    1. [集成EntityFramework](Abp/9.1ABP基础设施层-集成Entity Framework.md)
+    1. [集成EntityFramework](Abp/9.1ABP基础设施层-集成EntityFramework.md)
     2. [集成NHibernate](Abp/9.2ABP基础设施层-集成NHibernate.md)
-    3. [集成EntityFramework Core](Abp/9.3ABP基础设施层-集成Entity Framework Core.md)
-    4. [集成EntityFramework MySQL](Abp/9.4ABP基础设施层-集成Entity Framework MySql.md)
+    3. [集成EntityFramework Core](Abp/9.3ABP基础设施层-集成EntityFrameworkCore.md)
+    4. [集成EntityFramework MySQL](Abp/9.4ABP基础设施层-集成EntityFrameworkMySql.md)
     
 ### Abp Zero
 
