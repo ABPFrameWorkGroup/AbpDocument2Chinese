@@ -1,6 +1,8 @@
+
 # 目录
 
 ## 文章&教程
+
 
 * Abp介绍
 * 单页面网站应用程序
@@ -32,6 +34,7 @@
     5. [工作单元](Abp/3.5ABP领域层-工作单元.md)
     6. [领域事件](Abp/3.6ABP领域层-领域事件.md)
     7. [数据过滤器](Abp/3.7ABP领域层-数据过滤器.md)
+    8. [规约模式](Abp/3.8ABP领域层-规约模式.md)
     
 4. ABP应用层
     1. [应用服务](Abp/4.1ABP应用层-应用服务.md)
@@ -42,7 +45,7 @@
     6. [审计日志](Abp/4.6ABP应用层-审计日志.md)
 
 5. 分布式服务层
-    1. [Web API Controllers](Abp/5.1ABP分布式服务-ASP.NET WebApi.md)
+    1. [Web API Controllers](Abp/5.1ABP分布式服务-ASP.NETWebApi.md)
     2. [动态WebApi层](Abp/5.2ABP分布式服务-动态WebApi层.md)
     3. [集成OData](Abp/5.3ABP分布式服务-集成OData.md)
     4. [集成Swagger UI](Abp/5.4ABP分布式服务-集成SwaggerUI.md)
@@ -57,6 +60,7 @@
     7. [嵌入资源文件](Abp/6.7ABP表现层-嵌入资源文件.md)
     8. [ASP.NET Core](Abp/6.8ASP.NET-Core.md)
     9. [CSRF和XSRF保护](Abp/6.9CSRF和XSRF保护.md)
+    10. [嵌入式资源](Abp/6.10嵌入式资源.md)
 
 7. ABP后台服务
     1. [后台作业和后台工人](Abp/7.1ABP后台服务-后台作业和工人.md)
@@ -68,10 +72,10 @@
     2. [集成SignalR](Abp/8.2ABP实时服务-集成SignalR.md)
 
 9. ABP基础设施层
-    1. [集成EntityFramework](Abp/9.1ABP基础设施层-集成Entity Framework.md)
+    1. [集成EntityFramework](Abp/9.1ABP基础设施层-集成EntityFramework.md)
     2. [集成NHibernate](Abp/9.2ABP基础设施层-集成NHibernate.md)
-    3. [集成EntityFramework Core](Abp/9.3ABP基础设施层-集成Entity Framework Core.md)
-    4. [集成EntityFramework MySQL](Abp/9.4ABP基础设施层-集成Entity Framework MySql.md)
+    3. [集成EntityFramework Core](Abp/9.3ABP基础设施层-集成EntityFrameworkCore.md)
+    4. [集成EntityFramework MySQL](Abp/9.4ABP基础设施层-集成EntityFrameworkMySql.md)
     
 ### Abp Zero
 
