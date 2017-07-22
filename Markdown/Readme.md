@@ -79,6 +79,7 @@
     2. [集成NHibernate](Abp/9.2ABP基础设施层-集成NHibernate.md)
     3. [集成EntityFramework Core](Abp/9.3ABP基础设施层-集成EntityFrameworkCore.md)
     4. [集成EntityFramework MySQL](Abp/9.4ABP基础设施层-集成EntityFrameworkMySql.md)
+    5. [集成Dapper](Abp/9.5ABP基础设施层-集成Dapper.md)
     
 ### Abp Zero
 
