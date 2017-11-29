@@ -83,6 +83,8 @@
     
 ### Abp Zero
 
+#### 有想学习纯Vue版客户端的AbpZeroDemo的可以移步到这里 [VueAbpZeroDemo](https://github.com/carldai0106/VueAbpZeroDemo)
+
 由于博客园已经有了完全版的ABP Zero的翻译，这里没有翻译的将直接链接到[tkb至简](http://www.cnblogs.com/farb)的博客。
 感谢tkb至简。
 
