@@ -70,6 +70,7 @@
 8. ABP实时服务
     1. [通知系统](Abp/8.1ABP实时服务-通知系统.md)
     2. [集成SignalR](Abp/8.2ABP实时服务-集成SignalR.md)
+    3. [集成SignalR AspNet Core](Abp/8.3ABP实时服务-集成SignalRAspNetCore.md)
 
 9. ABP基础设施层
     1. [集成EntityFramework](Abp/9.1ABP基础设施层-集成EntityFramework.md)
