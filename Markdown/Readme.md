@@ -46,12 +46,14 @@
     4. [权限验证](Abp/4.4ABP应用层-权限认证.md)
     5. [功能管理](Abp/4.5ABP应用层-功能管理.md)
     6. [审计日志](Abp/4.6ABP应用层-审计日志.md)
+    7. [实体历史](Abp/4.6ABP应用层-EntityHistory.md)
 
 5. 分布式服务层
     1. [Web API Controllers](Abp/5.1ABP分布式服务-ASP.NETWebApi.md)
     2. [动态WebApi层](Abp/5.2ABP分布式服务-动态WebApi层.md)
     3. [集成OData](Abp/5.3ABP分布式服务-集成OData.md)
     4. [集成Swagger UI](Abp/5.4ABP分布式服务-集成SwaggerUI.md)
+    5. [ASPNET Core 集成OData](Abp/5.5ABP分布式服务-ASPNETCoreOData集成.md)
 
 6. ABP表现层
     1. [MVC Controllers](Abp/6.1ABP表现层-Mvc控制器.md)
