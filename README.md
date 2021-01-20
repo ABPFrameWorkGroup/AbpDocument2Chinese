@@ -16,6 +16,8 @@
 
 **三.关于ABP框架中国小组**
 
+**ABP框架中国小组微信群，请加微信号：13532560850**
+
 该开发指南基于ABP Framework官方文档，由ABP框架中国小组(ABPFrameWorkGroup)翻译。ABP框架中国小组在Github的地址为：https://github.com/ABPFrameWorkGroup 大家可以在该地址下载最新的翻译文档并加入讨论。以后，最新的ABPFrameWork档，ABPFrameWork实例教程，以及代码都通过Github的ABP框架中国小组(ABPFrameWorkGroup)发布，请大家关注。
 
 **四.关于翻译**
