@@ -4,12 +4,11 @@
 
 **说明：原始Word版本现在已经加入**
 
-
 **一.PDF版为最终发布版（RELEASE）**
-
 
 **二.PDF带有书签，大家可以很方便的浏览。**
 
+**三.Markdown格式全文进入 https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese/tree/master/Markdown**
 
 ----------
 
